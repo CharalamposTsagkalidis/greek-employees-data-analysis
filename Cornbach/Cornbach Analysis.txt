@@ -1,0 +1,115 @@
+Reliability analysis   
+Call: psych::alpha(x = likert_data)
+
+  raw_alpha std.alpha G6(smc) average_r  S/N  ase mean   sd median_r
+      0.43      0.45    0.51     0.092 0.81 0.12  3.5 0.44    0.096
+
+    95% confidence boundaries 
+         lower alpha upper
+Feldt     0.15  0.43  0.64
+Duhachek  0.19  0.43  0.67
+
+ Reliability if an item is dropped:
+                                                                                           raw_alpha
+How important is it for you to know the purpose/final goal of the project you undertake?        0.43
+I feel that the work environment does not support my personal or professional development.      0.41
+How important is it for you to have someone who motivates you in your work?                     0.39
+My leader/manager motivates me to perform at my best.                                           0.47
+How much does micromanagement reduce your motivation at work?                                   0.43
+The level of organization in a project significantly affects my motivation.                     0.37
+How does working 37 hours a week influence your motivation?                                     0.31
+Do you feel fear of being laid off at your current job                                          0.36
+                                                                                           std.alpha
+How important is it for you to know the purpose/final goal of the project you undertake?        0.45
+I feel that the work environment does not support my personal or professional development.      0.43
+How important is it for you to have someone who motivates you in your work?                     0.40
+My leader/manager motivates me to perform at my best.                                           0.48
+How much does micromanagement reduce your motivation at work?                                   0.44
+The level of organization in a project significantly affects my motivation.                     0.38
+How does working 37 hours a week influence your motivation?                                     0.33
+Do you feel fear of being laid off at your current job                                          0.39
+                                                                                           G6(smc)
+How important is it for you to know the purpose/final goal of the project you undertake?      0.49
+I feel that the work environment does not support my personal or professional development.    0.46
+How important is it for you to have someone who motivates you in your work?                   0.46
+My leader/manager motivates me to perform at my best.                                         0.50
+How much does micromanagement reduce your motivation at work?                                 0.48
+The level of organization in a project significantly affects my motivation.                   0.44
+How does working 37 hours a week influence your motivation?                                   0.39
+Do you feel fear of being laid off at your current job                                        0.44
+                                                                                           average_r  S/N
+How important is it for you to know the purpose/final goal of the project you undertake?       0.103 0.81
+I feel that the work environment does not support my personal or professional development.     0.097 0.75
+How important is it for you to have someone who motivates you in your work?                    0.088 0.67
+My leader/manager motivates me to perform at my best.                                          0.115 0.91
+How much does micromanagement reduce your motivation at work?                                  0.102 0.79
+The level of organization in a project significantly affects my motivation.                    0.081 0.61
+How does working 37 hours a week influence your motivation?                                    0.065 0.49
+Do you feel fear of being laid off at your current job                                         0.084 0.64
+                                                                                           alpha se var.r
+How important is it for you to know the purpose/final goal of the project you undertake?       0.13 0.021
+I feel that the work environment does not support my personal or professional development.     0.13 0.018
+How important is it for you to have someone who motivates you in your work?                    0.13 0.025
+My leader/manager motivates me to perform at my best.                                          0.12 0.020
+How much does micromanagement reduce your motivation at work?                                  0.13 0.021
+The level of organization in a project significantly affects my motivation.                    0.14 0.024
+How does working 37 hours a week influence your motivation?                                    0.15 0.022
+Do you feel fear of being laid off at your current job                                         0.14 0.021
+                                                                                           med.r
+How important is it for you to know the purpose/final goal of the project you undertake?   0.110
+I feel that the work environment does not support my personal or professional development. 0.110
+How important is it for you to have someone who motivates you in your work?                0.071
+My leader/manager motivates me to perform at my best.                                      0.115
+How much does micromanagement reduce your motivation at work?                              0.115
+The level of organization in a project significantly affects my motivation.                0.071
+How does working 37 hours a week influence your motivation?                                0.054
+Do you feel fear of being laid off at your current job                                     0.082
+
+ Item statistics 
+                                                                                            n raw.r std.r
+How important is it for you to know the purpose/final goal of the project you undertake?   48  0.31  0.39
+I feel that the work environment does not support my personal or professional development. 48  0.46  0.42
+How important is it for you to have someone who motivates you in your work?                48  0.41  0.48
+My leader/manager motivates me to perform at my best.                                      48  0.32  0.32
+How much does micromanagement reduce your motivation at work?                              48  0.45  0.40
+The level of organization in a project significantly affects my motivation.                48  0.52  0.52
+How does working 37 hours a week influence your motivation?                                48  0.60  0.61
+Do you feel fear of being laid off at your current job                                     48  0.52  0.50
+                                                                                           r.cor r.drop
+How important is it for you to know the purpose/final goal of the project you undertake?    0.21  0.104
+I feel that the work environment does not support my personal or professional development.  0.30  0.163
+How important is it for you to have someone who motivates you in your work?                 0.34  0.203
+My leader/manager motivates me to perform at my best.                                       0.13  0.032
+How much does micromanagement reduce your motivation at work?                               0.24  0.127
+The level of organization in a project significantly affects my motivation.                 0.41  0.245
+How does working 37 hours a week influence your motivation?                                 0.56  0.411
+Do you feel fear of being laid off at your current job                                      0.39  0.268
+                                                                                           mean   sd
+How important is it for you to know the purpose/final goal of the project you undertake?    4.4 0.74
+I feel that the work environment does not support my personal or professional development.  2.9 1.12
+How important is it for you to have someone who motivates you in your work?                 4.2 0.78
+My leader/manager motivates me to perform at my best.                                       3.4 1.03
+How much does micromanagement reduce your motivation at work?                               3.7 1.18
+The level of organization in a project significantly affects my motivation.                 3.4 1.09
+How does working 37 hours a week influence your motivation?                                 3.6 0.85
+Do you feel fear of being laid off at your current job                                      2.3 1.01
+
+Non missing response frequency for each item
+                                                                                              1    2    3
+How important is it for you to know the purpose/final goal of the project you undertake?   0.00 0.02 0.08
+I feel that the work environment does not support my personal or professional development. 0.12 0.25 0.31
+How important is it for you to have someone who motivates you in your work?                0.00 0.02 0.15
+My leader/manager motivates me to perform at my best.                                      0.04 0.12 0.38
+How much does micromanagement reduce your motivation at work?                              0.04 0.10 0.29
+The level of organization in a project significantly affects my motivation.                0.06 0.12 0.27
+How does working 37 hours a week influence your motivation?                                0.00 0.06 0.46
+Do you feel fear of being laid off at your current job                                     0.21 0.46 0.23
+                                                                                              4    5 miss
+How important is it for you to know the purpose/final goal of the project you undertake?   0.38 0.52    0
+I feel that the work environment does not support my personal or professional development. 0.25 0.06    0
+How important is it for you to have someone who motivates you in your work?                0.42 0.42    0
+My leader/manager motivates me to perform at my best.                                      0.31 0.15    0
+How much does micromanagement reduce your motivation at work?                              0.21 0.35    0
+The level of organization in a project significantly affects my motivation.                0.40 0.15    0
+How does working 37 hours a week influence your motivation?                                0.31 0.17    0
+Do you feel fear of being laid off at your current job   
